@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **App development**
 
-- 💬 Ask me about **Php Designing and Databases**
+- 💬 Ask me about **Php, Designing websites and Databases**
 
 - 📫 How to reach me **pandeyaman670@gmail.com**
 
